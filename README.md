@@ -1,4 +1,4 @@
-# Fintech_Bootcamp_Challenge_10
+# Fintech Bootcamp Challenge 10
 
 Combine financial Python programming skills with the new unsupervised learning skills acquired in this module.
 
